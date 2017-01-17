@@ -1,0 +1,3 @@
+<parameters>
+  <setParameter name="DisplayedMessage" value="I was set in the parameters-values.xml file" />
+</parameters>
